@@ -1,3 +1,4 @@
+![logo](https://github.com/vanshkushwaha8/vanshkushwaha8/blob/master/vansh_banner.png)
 <h1 align="center" style="animation: fadeIn 2s ease-in-out;">Hi 👋, I'm VANSH KUSHWAHA</h1>
 <h3 align="center" style="animation: slideIn 2s ease-in-out;">A passionate frontend developer from India</h3>
 
