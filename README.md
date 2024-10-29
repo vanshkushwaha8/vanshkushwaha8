@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm VANSH KUSHWAHA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-gif&psig=AOvVaw2dtExAbQlAt0uYEFnWgIFN&ust=1730312312031000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD8tO6ZtIkDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src"https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshkushwaha8&label=Profile%20views&color=0e75b6&style=flat" alt="vanshkushwaha8" /> </p>
 
