@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #4CAF50; font-size: 2.5em; font-family: Arial, sans-serif;">Hi 👋, I'm VANSH KUSHWAHA</h1>
 <h3 align="center" style="color: #757575; font-style: italic; font-family: Georgia, serif;">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" src="[https://www.example.com/my-coding-image.jpg](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
+<img align="right" alt="coding" width="400" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left" style="font-family: Arial, sans-serif; color: #6D9886;"> 
     <img src="https://komarev.com/ghpvc/?username=vanshkushwaha8&label=Profile%20views&color=0e75b6&style=flat" alt="vanshkushwaha8" />
