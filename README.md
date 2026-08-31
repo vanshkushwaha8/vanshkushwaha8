@@ -4,27 +4,28 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=500&color=6C8CFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+VANSH+KUSHWAHA;Frontend+Developer+%26+React+Native+Enthusiast;Building+Impactful+Experiences;Learning+Python+%26+AI+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=6C8CFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+VANSH+KUSHWAHA;Frontend+Developer;Learning+Python+%26+AI;Building+Impactful+Experiences" alt="Typing SVG" />
 </h1>
 
+<!-- Badge Row - Enhanced with better UI -->
 <p align="center">
   <a href="https://github.com/vanshkushwaha8">
-    <img src="https://img.shields.io/github/followers/vanshkushwaha8?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/vanshkushwaha8?label=Followers&style=for-the-badge&logo=github&color=6C8CFF" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/vanshkushwaha8">
-    <img src="https://img.shields.io/github/stars/vanshkushwaha8?label=Stars&style=social" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/vanshkushwaha8?label=Stars&style=for-the-badge&logo=github&color=FFD700" alt="GitHub Stars" />
   </a>
   <a href="https://visitor-badge.laobi.icu/badge?page_id=vanshkushwaha8.vanshkushwaha8">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=vanshkushwaha8.vanshkushwaha8" alt="Visitors" />
+    <img src="https://img.shields.io/badge/Visitors-453-6C8CFF?style=for-the-badge&logo=github&color=6C8CFF" alt="Visitors" />
   </a>
   <a href="https://linkedin.com/in/vansh-kushwaha-71640a25b">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vanshkushwaha34@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://vansh-kushwaha.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -41,7 +42,9 @@
   <img align="right" alt="Coding" width="380" style="border-radius: 16px; box-shadow: 0px 8px 24px rgba(108,140,255,0.15);" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 </div>
 
-I'm a **passionate frontend developer** from India, crafting intuitive user interfaces and seamless experiences with **React**, **React Native**, and the **MERN stack**. Currently exploring **Vue.js** and diving deep into **Python & AI/ML** to build intelligent, data-driven applications.
+I'm a **passionate frontend developer** from India, crafting intuitive user interfaces and seamless experiences with **React**, **React Native**, and the **MERN stack**.
+
+> 🧠 **Currently exploring:** Python, AI/ML fundamentals, and understanding LLMs — building toward AI Engineering.
 
 <table>
   <tr>
@@ -49,8 +52,8 @@ I'm a **passionate frontend developer** from India, crafting intuitive user inte
     <td><strong>MASTYA JEEVAN</strong> — React Native lifestyle & wellness app</td>
   </tr>
   <tr>
-    <td>🌱 <strong>Currently learning</strong></td>
-    <td>Vue.js · Python · AI/ML Fundamentals 🧠</td>
+    <td>🧠 <strong>Currently learning</strong></td>
+    <td>Python · AI/ML Fundamentals · LLMs</td>
   </tr>
   <tr>
     <td>🛒 <strong>Latest project</strong></td>
@@ -77,6 +80,34 @@ I'm a **passionate frontend developer** from India, crafting intuitive user inte
     <td>I've organized hackathons with 250+ participants! 🎯</td>
   </tr>
 </table>
+
+---
+
+<!-- Stats Cards - Improved UI -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=vanshkushwaha8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C8CFF&icon_color=6C8CFF&text_color=C9D1D9" width="100%" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshkushwaha8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C8CFF&text_color=C9D1D9" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshkushwaha8&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C8CFF&ring=6C8CFF&fire=6C8CFF&currStreakLabel=6C8CFF" width="60%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=vanshkushwaha8&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="80%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -229,8 +260,8 @@ I'm a **passionate frontend developer** from India, crafting intuitive user inte
 
 <table>
   <tr>
-    <th width="22%">Project</th>
-    <th width="48%">Description</th>
+    <th width="25%">Project</th>
+    <th width="45%">Description</th>
     <th width="15%">Stack</th>
     <th width="15%">Demo</th>
   </tr>
@@ -280,22 +311,22 @@ I'm a **passionate frontend developer** from India, crafting intuitive user inte
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 16px;">
+      <td align="center">
         <img src="https://img.icons8.com/fluency/48/000000/certificate.png" width="40" height="40" /><br />
         <strong>MERN Stack Web Development</strong><br />
         <sub>CodeHelp</sub>
       </td>
-      <td align="center" style="padding: 16px;">
+      <td align="center">
         <img src="https://img.icons8.com/fluency/48/000000/brain.png" width="40" height="40" /><br />
         <strong>Problem Solving & Algorithms</strong><br />
         <sub>TCAC</sub>
       </td>
-      <td align="center" style="padding: 16px;">
+      <td align="center">
         <img src="https://img.icons8.com/fluency/48/000000/conference.png" width="40" height="40" /><br />
         <strong>Hackathon Organizer</strong><br />
         <sub>250+ participants</sub>
       </td>
-      <td align="center" style="padding: 16px;">
+      <td align="center">
         <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="40" height="40" /><br />
         <strong>Tech Workshop Lead</strong><br />
         <sub>Mentoring & sessions</sub>
@@ -306,16 +337,32 @@ I'm a **passionate frontend developer** from India, crafting intuitive user inte
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Analytics
+## 🤖 AI/ML Journey
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanshkushwaha8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshkushwaha8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshkushwaha8&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=vanshkushwaha8&theme=tokyonight&no-frame=true&row=2&column=4" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/python.png" width="40" height="40" /><br />
+        <strong>Python</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" width="40" height="40" /><br />
+        <strong>AI/ML</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/brain.png" width="40" height="40" /><br />
+        <strong>LLMs</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluency/48/000000/data-science.png" width="40" height="40" /><br />
+        <strong>Data Science</strong>
+      </td>
+    </tr>
+  </table>
+  <p>
+    <sub>🧠 Currently building foundational knowledge in Python, AI/ML, and understanding Large Language Models.</sub>
+  </p>
 </div>
 
 ---
