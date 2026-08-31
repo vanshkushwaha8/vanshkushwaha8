@@ -42,7 +42,7 @@
   <img align="right" alt="Coding" width="380" style="border-radius: 16px; box-shadow: 0px 8px 24px rgba(108,140,255,0.15);" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 </div>
 
-I'm a **passionate frontend developer** from India, crafting intuitive user interfaces and seamless experiences with **React**, **React Native**, and the **MERN stack**.
+I'm a **passionate FullStack developer** from India, crafting intuitive user interfaces and seamless experiences with **React**, **React Native**, and the **MERN stack**.
 
 > 🧠 **Currently exploring:** Python, AI/ML fundamentals, and understanding LLMs — building toward AI Engineering.
 
