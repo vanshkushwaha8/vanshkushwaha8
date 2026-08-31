@@ -174,21 +174,21 @@ Centurion University of Technology and Management, Odisha
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/python.png" width="40" height="40" /><br />
-        <strong>Python</strong>
+      <td align="center" style="font-size: 2.2rem; padding: 16px 24px;">
+        🐍<br />
+        <strong style="font-size: 0.9rem;">Python</strong>
       </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" width="40" height="40" /><br />
-        <strong>AI/ML</strong>
+      <td align="center" style="font-size: 2.2rem; padding: 16px 24px;">
+        🤖<br />
+        <strong style="font-size: 0.9rem;">AI/ML</strong>
       </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/brain.png" width="40" height="40" /><br />
-        <strong>LLMs</strong>
+      <td align="center" style="font-size: 2.2rem; padding: 16px 24px;">
+        🧠<br />
+        <strong style="font-size: 0.9rem;">LLMs</strong>
       </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/data-science.png" width="40" height="40" /><br />
-        <strong>Data Science</strong>
+      <td align="center" style="font-size: 2.2rem; padding: 16px 24px;">
+        📊<br />
+        <strong style="font-size: 0.9rem;">Data Science</strong>
       </td>
     </tr>
   </table>
