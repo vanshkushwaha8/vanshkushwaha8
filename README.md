@@ -4,10 +4,10 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=6C8CFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+VANSH+KUSHWAHA;Frontend+Developer;Learning+Python+%26+AI;Building+Impactful+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=6C8CFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+VANSH+KUSHWAHA;Software+Developer;MERN+%7C+Next.js;Python+%26+AI+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<!-- Badge Row - Enhanced with better UI -->
+<!-- Badge Row -->
 <p align="center">
   <a href="https://github.com/vanshkushwaha8">
     <img src="https://img.shields.io/github/followers/vanshkushwaha8?label=Followers&style=for-the-badge&logo=github&color=6C8CFF" alt="GitHub Followers" />
@@ -35,55 +35,118 @@
 
 ---
 
-<!-- About Section -->
-## 🚀 About Me
+## 🚀 Professional Summary
 
-<div align="center">
-  <img align="right" alt="Coding" width="380" style="border-radius: 16px; box-shadow: 0px 8px 24px rgba(108,140,255,0.15);" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-</div>
+Software Developer with **1+ years of production experience** building MERN and Next.js platforms for fintech, HR tech, and social commerce domains. Experienced in **REST API development**, **KYC/AML compliance workflows**, **state-machine-driven business processes**, authentication/authorization, database optimization, and production-grade backend architecture.
 
-I'm a **passionate FullStack developer** from India, crafting intuitive user interfaces and seamless experiences with **React**, **React Native**, and the **MERN stack**.
-
-> 🧠 **Currently exploring:** Python, AI/ML fundamentals, and understanding LLMs — building toward AI Engineering.
-
-<table>
-  <tr>
-    <td>🔭 <strong>Currently working on</strong></td>
-    <td><strong>MASTYA JEEVAN</strong> — React Native lifestyle & wellness app</td>
-  </tr>
-  <tr>
-    <td>🧠 <strong>Currently learning</strong></td>
-    <td>Python · AI/ML Fundamentals · LLMs</td>
-  </tr>
-  <tr>
-    <td>🛒 <strong>Latest project</strong></td>
-    <td><a href="https://vanshtastic.netlify.app/">vanshTastic</a> — Full e-commerce store with React</td>
-  </tr>
-  <tr>
-    <td>👨‍💻 <strong>Portfolio</strong></td>
-    <td><a href="https://vansh-kushwaha.netlify.app/">vansh-kushwaha.netlify.app</a></td>
-  </tr>
-  <tr>
-    <td>💬 <strong>Ask me about</strong></td>
-    <td>React · React Native · MERN Stack</td>
-  </tr>
-  <tr>
-    <td>📫 <strong>Reach me</strong></td>
-    <td><a href="mailto:vanshkushwaha34@gmail.com">vanshkushwaha34@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td>📄 <strong>Resume</strong></td>
-    <td><a href="https://drive.google.com/file/d/1p8Aiw24e75HX1wEpNbWv_n2Zu_6fTBen/view?usp=sharing">View on Google Drive</a></td>
-  </tr>
-  <tr>
-    <td>⚡ <strong>Fun fact</strong></td>
-    <td>I've organized hackathons with 250+ participants! 🎯</td>
-  </tr>
-</table>
+> 🧠 **Currently Learning:** Python, AI/ML Fundamentals — building toward AI Engineering.
 
 ---
 
-<!-- Stats Cards - Improved UI -->
+## 💼 Work Experience
+
+### Software Developer · **Brain Technosys Pvt. Ltd.**  
+*Feb 2025 - Aug 2026*
+
+- Architected and deployed **50+ production REST APIs** across Opalus, Shift Work, Hirra, and HomiiConnect using Express.js, MongoDB, PostgreSQL, and Prisma ORM.
+- Engineered an **8-step KYC onboarding flow** with Sumsub WebSDK covering residency verification, tax profiling, investor categorization, and knowledge assessments.
+- Designed and implemented **Epic E15**, a money operations and financial crime compliance module using a provider-agnostic adapter pattern and environment toggles.
+- Built a **project publication state machine** covering submitted, under review, approval, and live stages with conditional field mutability, role-based transitions, and automated admin review.
+- Optimized investor pagination using a **dual-pipeline Promise.all** approach and resolved state-machine desynchronization across **100+ active projects**.
+- Developed Shift Work backend infrastructure including soft-delete mechanisms, **cron-based invoice generation** with PDF rendering, Australian tax-compliant formatting, OTP-based account deletion, and public compliance pages.
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | JavaScript, TypeScript, Java |
+| **Frontend** | React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS, Redux |
+| **Backend** | Node.js, Express.js, REST API Design, Authentication & Authorization, State Machines, Workflow Systems |
+| **Database** | MongoDB, PostgreSQL, Prisma ORM, Query Optimization, Schema Design, Aggregation Pipelines |
+| **Tools** | Git, GitHub, Postman, VS Code, pgAdmin, MongoDB Compass, Swagger/OpenAPI |
+| **Practices** | RBAC, KYC/AML Compliance, API Documentation, Responsive Design, State Management, Production-Grade Development |
+
+---
+
+## 🏆 Projects
+
+### Opalus — Real Estate Crowdfunding Investment Platform  
+*Tech Stack: Node.js, Express.js, MongoDB, PostgreSQL, React, Sumsub WebSDK, State Machines*
+
+- Contributed as a full-stack engineer on an **ECSP-regulated investment platform** supporting **100+ concurrent investors**; architected **50+ REST APIs** for project lifecycle, investor onboarding, transactions, and compliance workflows.
+- Implemented **8-step KYC/AML compliance** with Sumsub identity verification, risk assessment, QR-based mobile camera relay, and automated verification tracking.
+- Designed **E15 money operations** with a provider-agnostic payment adapter pattern and built a project publication state machine with role-based access and automated review queues.
+
+🔗 [Live Demo](https://opalusdev.etrueconcept.com/)
+
+---
+
+### Shift Work — Workforce & Shift Management Platform  
+*Tech Stack: Node.js, Express.js, TypeScript, MongoDB, Prisma, React Native, PostgreSQL*
+
+- Architected backend infrastructure serving **1000+ concurrent** mobile and web users and implemented **30+ REST APIs** for scheduling, timers, payments, and reporting.
+- Engineered **cron-based invoice generation** with PDF rendering, Australian tax-compliant formatting, automated overdue transitions, and **500+ monthly invoices at 99.8% accuracy**.
+
+🔗 [Live Demo](https://shiftwork.au/)
+
+---
+
+### Hirra — Workforce Hiring Platform  
+*Tech Stack: Node.js, Express.js, MongoDB, React, Material UI*
+
+- Developed backend hiring workflows and CRUD APIs for subcontractor and tradesperson management, applicant tracking, and job matching.
+- Built React admin dashboard with **RBAC** and multi-role authentication/authorization for admin, recruiter, and applicant personas.
+
+🔗 [Live Demo](https://hira.etrueconcept.com/)
+
+---
+
+### HomiiConnect — Social Media & Marketplace Platform  
+*Tech Stack: Next.js, Prisma, PostgreSQL*
+
+- Developed backend architecture and scalable APIs for posts, videos, stories, communities, polls, and marketplace functionality.
+- Optimized PostgreSQL schemas and backend performance using Prisma ORM and production-grade API architecture.
+
+🔗 [Live Demo](https://homii.etrueconcept.com/)
+
+---
+
+### vanshTastic — E-Commerce Store  
+*Tech Stack: React, Redux, CSS*
+
+- A fully functional e-commerce store with product listings, cart management, and a seamless checkout experience. Deployed on Netlify.
+
+🔗 [Live Demo](https://vanshtastic.netlify.app/)
+
+---
+
+### MASTYA JEEVAN — Lifestyle & Wellness App  
+*Tech Stack: React Native, Firebase, Expo*
+
+- Currently developing a React Native app focused on lifestyle and wellness, delivering a smooth user experience with modern UI components and real-time data.
+
+*Status: In Progress*
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science and Engineering**  
+Centurion University of Technology and Management, Odisha  
+*CGPA: 8.48 | 2021 – 2025*
+
+---
+
+## 📜 Certifications & Achievements
+
+- **MERN Stack Web Development** — CodeHelp
+- **Problem Solving & Algorithms** — TCAC
+- **Organized 250+ participant hackathons** and technology workshops
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -99,237 +162,6 @@ I'm a **passionate FullStack developer** from India, crafting intuitive user int
     <tr>
       <td colspan="2" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshkushwaha8&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C8CFF&ring=6C8CFF&fire=6C8CFF&currStreakLabel=6C8CFF" width="60%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=vanshkushwaha8&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="80%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<!-- Connect Section -->
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/vansh-kushwaha-71640a25b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/vansh_kushwaha__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.leetcode.com/tlgmdjrmqq" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://vansh-kushwaha.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:vanshkushwaha34@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/vanshkushwaha8" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<!-- Skills Section -->
-## 🛠️ Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br />TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      <br />Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="48" height="48" alt="MATLAB" />
-      <br />MATLAB
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
-      <br />React
-    </td>
-    <td align="center" width="96">
-      <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" />
-      <br />React Native
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" />
-      <br />Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="48" height="48" alt="Vue.js" />
-      <br />Vue.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
-      <br />HTML5
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
-      <br />CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind" />
-      <br />Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
-      <br />Redux
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
-      <br />Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="48" height="48" alt="Express" />
-      <br />Express
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
-      <br />MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
-      <br />PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
-      <br />Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/prismaio/prismaio-icon.svg" width="48" height="48" alt="Prisma" />
-      <br />Prisma
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-      <br />Postman
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
-      <br />Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="Illustrator" />
-      <br />Illustrator
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="48" height="48" alt="Photoshop" />
-      <br />Photoshop
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="48" height="48" alt="Netlify" />
-      <br />Netlify
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- Featured Projects -->
-## 🏆 Featured Projects
-
-<table>
-  <tr>
-    <th width="25%">Project</th>
-    <th width="45%">Description</th>
-    <th width="15%">Stack</th>
-    <th width="15%">Demo</th>
-  </tr>
-  <tr>
-    <td><strong>Opalus</strong></td>
-    <td>Real Estate Crowdfunding Investment Platform — ECSP-regulated with 100+ concurrent investors</td>
-    <td>MERN + PostgreSQL + Sumsub</td>
-    <td><a href="https://opalusdev.etrueconcept.com/"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel&logoColor=white" /></a></td>
-  </tr>
-  <tr>
-    <td><strong>Shift Work</strong></td>
-    <td>Workforce & Shift Management Platform — 1000+ concurrent users, 500+ monthly invoices</td>
-    <td>MERN + TypeScript + Prisma</td>
-    <td><a href="https://shiftwork.au/"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel&logoColor=white" /></a></td>
-  </tr>
-  <tr>
-    <td><strong>Hirra</strong></td>
-    <td>Workforce Hiring Platform — Applicant tracking, job matching, RBAC dashboard</td>
-    <td>MERN + Material UI</td>
-    <td><a href="https://hira.etrueconcept.com/"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel&logoColor=white" /></a></td>
-  </tr>
-  <tr>
-    <td><strong>HomiiConnect</strong></td>
-    <td>Social Media & Marketplace Platform — Posts, stories, communities, polls</td>
-    <td>Next.js + Prisma + PostgreSQL</td>
-    <td><a href="https://homii.etrueconcept.com/"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat&logo=vercel&logoColor=white" /></a></td>
-  </tr>
-  <tr>
-    <td><strong>vanshTastic</strong></td>
-    <td>E-Commerce Store — Product listings, cart, checkout</td>
-    <td>React + Redux</td>
-    <td><a href="https://vanshtastic.netlify.app/"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat&logo=netlify&logoColor=white" /></a></td>
-  </tr>
-  <tr>
-    <td><strong>MASTYA JEEVAN</strong></td>
-    <td>Lifestyle & Wellness App — React Native, Firebase</td>
-    <td>React Native + Firebase</td>
-    <td><img src="https://img.shields.io/badge/In%20Progress-FFA116?style=flat" /></td>
-  </tr>
-</table>
-
----
-
-<!-- Certifications -->
-## 🎯 Certifications & Achievements
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/certificate.png" width="40" height="40" /><br />
-        <strong>MERN Stack Web Development</strong><br />
-        <sub>CodeHelp</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/brain.png" width="40" height="40" /><br />
-        <strong>Problem Solving & Algorithms</strong><br />
-        <sub>TCAC</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/conference.png" width="40" height="40" /><br />
-        <strong>Hackathon Organizer</strong><br />
-        <sub>250+ participants</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="40" height="40" /><br />
-        <strong>Tech Workshop Lead</strong><br />
-        <sub>Mentoring & sessions</sub>
       </td>
     </tr>
   </table>
@@ -361,13 +193,37 @@ I'm a **passionate FullStack developer** from India, crafting intuitive user int
     </tr>
   </table>
   <p>
-    <sub>🧠 Currently building foundational knowledge in Python, AI/ML, and understanding Large Language Models.</sub>
+    <sub>🧠 Currently building foundational knowledge in Python, AI/ML, and understanding Large Language Models (LLMs) to transition into AI Engineering.</sub>
   </p>
 </div>
 
 ---
 
-<!-- Support -->
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/vansh-kushwaha-71640a25b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/vansh_kushwaha__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.leetcode.com/tlgmdjrmqq" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://vansh-kushwaha.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:vanshkushwaha34@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/vanshkushwaha8" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
 ## ☕ Support Me
 
 <p align="center">
@@ -378,7 +234,6 @@ I'm a **passionate FullStack developer** from India, crafting intuitive user int
 
 ---
 
-<!-- Footer -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/assets/footer.svg" width="100%" />
 </p>
