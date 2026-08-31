@@ -149,23 +149,26 @@ Centurion University of Technology and Management, Odisha
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=vanshkushwaha8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C8CFF&icon_color=6C8CFF&text_color=C9D1D9" width="100%" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshkushwaha8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C8CFF&text_color=C9D1D9" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshkushwaha8&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C8CFF&ring=6C8CFF&fire=6C8CFF&currStreakLabel=6C8CFF" width="60%" />
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=vanshkushwaha8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C8CFF&icon_color=6C8CFF&text_color=C9D1D9" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshkushwaha8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C8CFF&text_color=C9D1D9" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshkushwaha8&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C8CFF&ring=6C8CFF&fire=6C8CFF&currStreakLabel=6C8CFF" alt="GitHub Streak" width="60%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanshkushwaha8&theme=tokyonight" alt="Contribution Graph" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -208,7 +211,7 @@ Centurion University of Technology and Management, Odisha
   <a href="https://instagram.com/vansh_kushwaha__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.leetcode.com/tlgmdjrmqq" target="_blank">
+  <a href="https://leetcode.com/u/vanshkushwaha67" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://vansh-kushwaha.netlify.app/" target="_blank">
