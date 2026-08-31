@@ -61,8 +61,8 @@ Software Developer with **1+ years of production experience** building MERN and 
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | JavaScript, TypeScript, Java |
-| **Frontend** | React.js, Next.js, React Native, HTML5, CSS3, Tailwind CSS, Redux |
+| **Languages** | JavaScript, TypeScript, Python|
+| **Frontend** | React.js, Next.js, HTML5, CSS3, Tailwind CSS, Redux |
 | **Backend** | Node.js, Express.js, REST API Design, Authentication & Authorization, State Machines, Workflow Systems |
 | **Database** | MongoDB, PostgreSQL, Prisma ORM, Query Optimization, Schema Design, Aggregation Pipelines |
 | **Tools** | Git, GitHub, Postman, VS Code, pgAdmin, MongoDB Compass, Swagger/OpenAPI |
