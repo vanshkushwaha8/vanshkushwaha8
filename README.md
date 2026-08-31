@@ -1,6 +1,6 @@
 ![logo](https://github.com/vanshkushwaha8/vanshkushwaha8/blob/master/vansh_banner.png)
 <h1 align="center" style="animation: fadeIn 2s ease-in-out;">Hi 👋, I'm VANSH KUSHWAHA</h1>
-<h3 align="center" style="animation: slideIn 2s ease-in-out;">A passionate frontend developer from India</h3>
+<h3 align="center" style="animation: slideIn 2s ease-in-out;">Software Developer building full-stack platforms across fintech, HR tech, and social commerce</h3>
 
 <img align="right" alt="coding" width="400" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2); animation: float 3s ease-in-out infinite;" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -8,21 +8,35 @@
   <img src="https://komarev.com/ghpvc/?username=vanshkushwaha8&label=Profile%20views&color=0e75b6&style=flat" alt="vanshkushwaha8" style="animation: pulse 2s infinite;" /> 
 </p>
 
-- 🔭 I’m currently working on App Developing **MASTYA JEEVAN**
+- 💼 Software Developer at **Brain Technosys Pvt. Ltd.**, 1+ years building production MERN & Next.js platforms
 
-- 🌱 I’m currently learning **vue.js**
+- 🏗️ Architected and deployed **50+ production REST APIs** across Opalus, Shift Work, Hirra, and HomiiConnect using Express.js, MongoDB, PostgreSQL, and Prisma ORM
 
-- 🔭 I’m Completed working on E-Commerce Website Using React-JS [vanshTastic](https://vanshtastic.netlify.app/)
+- 🔐 Engineered an **8-step KYC onboarding flow** (Sumsub WebSDK) covering residency verification, tax profiling, investor categorization, and knowledge assessments
 
-- 👨‍💻 All of my Skill Set are available at [https://vansh-kushwaha.netlify.app/](https://vansh-kushwaha.netlify.app/)
+- ⚙️ Designed a **project publication state machine** with conditional field mutability, role-based transitions, and automated admin review
 
-- 💬 Ask me about **React-JS , React-Native**
+- 🧾 Built **cron-based invoice generation** with PDF rendering, Australian tax-compliant formatting, and 500+ monthly invoices at 99.8% accuracy
 
-- 📫 How to reach me **vanshkushwaha34@gmail.com**
+- 🌱 Currently learning **Python & AI/ML fundamentals**, building toward AI Engineering
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1p8Aiw24e75HX1wEpNbWv_n2Zu_6fTBen/view?usp=sharing](https://drive.google.com/file/d/1p8Aiw24e75HX1wEpNbWv_n2Zu_6fTBen/view?usp=sharing)
+- 👨‍💻 All of my skill set is available at [https://vansh-kushwaha.netlify.app/](https://vansh-kushwaha.netlify.app/)
 
-- ⚡ Fun fact **Nothing**
+- 💬 Ask me about **Node.js, Express.js, React.js, Next.js, PostgreSQL, Prisma ORM**
+
+- 📫 How to reach me: **vanshkushwaha34@gmail.com**
+
+- 📄 [View my resume](https://drive.google.com/file/d/1p8Aiw24e75HX1wEpNbWv_n2Zu_6fTBen/view?usp=sharing)
+
+<h3 align="left" style="animation: fadeIn 2s ease-in-out;">Featured Projects:</h3>
+<p align="left">
+
+- 🏢 <b>Opalus</b> — ECSP-regulated real estate crowdfunding platform, 100+ concurrent investors, 50+ REST APIs, Sumsub KYC/AML compliance — <a href="https://opalusdev.etrueconcept.com">opalusdev.etrueconcept.com</a>
+- ⏱️ <b>Shift Work</b> — Workforce & shift management platform, 1000+ concurrent users, 30+ REST APIs — <a href="https://shiftwork.au">shiftwork.au</a>
+- 👥 <b>Hirra</b> — Workforce hiring platform with RBAC admin dashboard — <a href="https://hira.etrueconcept.com">hira.etrueconcept.com</a>
+- 🌐 <b>HomiiConnect</b> — Social media & marketplace platform (posts, videos, stories, communities, polls) — <a href="https://homii.etrueconcept.com">homii.etrueconcept.com</a>
+
+</p>
 
 <h3 align="left" style="animation: fadeIn 2s ease-in-out;">Connect with me:</h3>
 <p align="left">
@@ -42,36 +56,42 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="animation: spin 2s linear infinite;" />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="animation: spin 2s linear infinite;" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="animation: spin 2s linear infinite;" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="animation: spin 2s linear infinite;" />
+  </a>
      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="animation: spin 2s linear infinite;" />
+  </a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" style="animation: spin 2s linear infinite; filter: invert(1);" />
   </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="animation: spin 2s linear infinite;" />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="animation: spin 2s linear infinite;" />
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="animation: spin 2s linear infinite;" />
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" style="animation: spin 2s linear infinite;" />
-  </a>
-  
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" style="animation: spin 2s linear infinite;" />
-  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="animation: spin 2s linear infinite;" />
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="animation: spin 2s linear infinite;" />
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="animation: spin 2s linear infinite;" />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40" style="animation: spin 2s linear infinite;" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="animation: spin 2s linear infinite;" />
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="animation: spin 2s linear infinite;" />
   </a>
- 
-  
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="animation: spin 2s linear infinite;" />
+  </a>
 </p>
 
 <h3 align="left" style="animation: fadeIn 2s ease-in-out;">Support:</h3>
@@ -84,5 +104,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshkushwaha8&show_icons=true&locale=en" alt="vanshkushwaha8" style="animation: fadeIn 3s ease-in-out;" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshkushwaha8&" alt="vanshkushwaha8" style="animation: fadeIn 3s ease-in-out;" /></p>
-
-
