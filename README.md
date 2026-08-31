@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=6C8CFF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+VANSH+KUSHWAHA;Frontend+Developer+%26+React+Native+Enthusiast;Building+Impactful+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=500&color=6C8CFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+VANSH+KUSHWAHA;Frontend+Developer+%26+React+Native+Enthusiast;Building+Impactful+Experiences;Learning+Python+%26+AI+🚀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -41,7 +41,7 @@
   <img align="right" alt="Coding" width="380" style="border-radius: 16px; box-shadow: 0px 8px 24px rgba(108,140,255,0.15);" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 </div>
 
-I'm a **passionate frontend developer** from India, crafting intuitive user interfaces and seamless experiences with **React**, **React Native**, and the **MERN stack**. Currently exploring **Vue.js** and **AI/ML** to broaden my skill set.
+I'm a **passionate frontend developer** from India, crafting intuitive user interfaces and seamless experiences with **React**, **React Native**, and the **MERN stack**. Currently exploring **Vue.js** and diving deep into **Python & AI/ML** to build intelligent, data-driven applications.
 
 <table>
   <tr>
@@ -50,7 +50,7 @@ I'm a **passionate frontend developer** from India, crafting intuitive user inte
   </tr>
   <tr>
     <td>🌱 <strong>Currently learning</strong></td>
-    <td>Vue.js · AI/ML Fundamentals</td>
+    <td>Vue.js · Python · AI/ML Fundamentals 🧠</td>
   </tr>
   <tr>
     <td>🛒 <strong>Latest project</strong></td>
@@ -229,8 +229,8 @@ I'm a **passionate frontend developer** from India, crafting intuitive user inte
 
 <table>
   <tr>
-    <th width="25%">Project</th>
-    <th width="45%">Description</th>
+    <th width="22%">Project</th>
+    <th width="48%">Description</th>
     <th width="15%">Stack</th>
     <th width="15%">Demo</th>
   </tr>
@@ -280,22 +280,22 @@ I'm a **passionate frontend developer** from India, crafting intuitive user inte
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <td align="center" style="padding: 16px;">
         <img src="https://img.icons8.com/fluency/48/000000/certificate.png" width="40" height="40" /><br />
         <strong>MERN Stack Web Development</strong><br />
         <sub>CodeHelp</sub>
       </td>
-      <td align="center">
+      <td align="center" style="padding: 16px;">
         <img src="https://img.icons8.com/fluency/48/000000/brain.png" width="40" height="40" /><br />
         <strong>Problem Solving & Algorithms</strong><br />
         <sub>TCAC</sub>
       </td>
-      <td align="center">
+      <td align="center" style="padding: 16px;">
         <img src="https://img.icons8.com/fluency/48/000000/conference.png" width="40" height="40" /><br />
         <strong>Hackathon Organizer</strong><br />
         <sub>250+ participants</sub>
       </td>
-      <td align="center">
+      <td align="center" style="padding: 16px;">
         <img src="https://img.icons8.com/fluency/48/000000/trophy.png" width="40" height="40" /><br />
         <strong>Tech Workshop Lead</strong><br />
         <sub>Mentoring & sessions</sub>
