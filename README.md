@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/vanshkushwaha8/vanshkushwaha8/blob/master/vansh_banner.png" alt="Vansh Kushwaha Banner" width="100%" />
+  <img src="https://github.com/vanshkushwaha8/vanshkushwaha8/blob/master/vanshBanner.png" alt="Vansh Kushwaha Banner" width="100%" />
 </p>
 
 <h1 align="center">
