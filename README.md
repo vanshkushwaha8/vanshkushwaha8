@@ -24,8 +24,8 @@
   <a href="mailto:vanshkushwaha34@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://vansh-kushwaha.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  <a href="https://mevansh.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -71,6 +71,17 @@ Software Developer with **1+ years of production experience** building MERN and 
 ---
 
 ## 🏆 Projects
+
+### JobNirdesh — Government Jobs & Career Guidance Portal  
+*Tech Stack: React, Node.js, Express.js, MongoDB, Vercel, Render*
+
+- Built a job-information platform focused on government recruitment notifications, latest jobs, results, admit cards, answer keys, syllabi, admissions, scholarships, and exam updates.
+- Organized opportunities with **state-wise and qualification-wise discovery**, alongside career guidance content for job seekers in India.
+- Developed **SEO-focused pages** and a publishing workflow to help users discover recruitment updates and official application information.
+
+🔗 [Live Demo](https://www.jobnirdesh.com/)
+
+---
 
 ### Opalus — Real Estate Crowdfunding Investment Platform  
 *Tech Stack: Node.js, Express.js, MongoDB, PostgreSQL, React, Sumsub WebSDK, State Machines*
@@ -214,8 +225,8 @@ Centurion University of Technology and Management, Odisha
   <a href="https://leetcode.com/u/vanshkushwaha67" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://vansh-kushwaha.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  <a href="https://mevansh.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:vanshkushwaha34@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
